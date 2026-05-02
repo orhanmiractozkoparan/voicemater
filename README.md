@@ -6,7 +6,7 @@ yüklenen dosya içinde cmd açılmalı
 
 cmd ye yazılması gerekenler : 
 
-npm install
+( sadece ilk başta ) npm install
 
 npm run dev
 
